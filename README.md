@@ -10,7 +10,6 @@ This repo contains code to compare the performance of [ProcessBuilder](https://d
 
 [Maven](http://maven.apache.org/POM/4.0.0)
 
-Apache Commons Exec
 ```
 <dependencies>
         <dependency>
