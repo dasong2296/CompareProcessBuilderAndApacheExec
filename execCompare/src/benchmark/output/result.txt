@@ -1,0 +1,14 @@
+apacheExecStd's time is: 16.597732319s
+pbStd's time is: 44.414394318s
+pbNArgsNoStd loop 50000000 times with argument number: 100 time is: 1.039501225s
+apacheExecNArgsNoStd loop 50000000 times with argument number: 100 time is: 1.046671439s
+apacheExecNArgsNoStd loop 50000000 times with argument number: 1000 time is: 1.026550649s
+pbNArgsNoStd loop 50000000 times with argument number: 1000 time is: 1.038610612s
+apacheExecStd time is: 18.262498645s
+pbStd time is: 44.928146767s
+apacheExecNArgsNoStd loop 50000 times with argument number: 1000 time is: 5.854986171s
+apacheExecNArgsNoStd loop 200000 times with argument number: 1000 time is: 98.186597364s
+apacheExecNArgsNoStd loop 200000 times with argument number: 1000 time is: 83.497878365s
+apacheExecNArgsNoStd loop 100000 times with argument number: 1000 time is: 20.224086408s
+apacheExecNArgsNoStd loop 100000 times with argument number: 1000 time is: 24.618163807s
+pbNArgsNoStd loop 100000 times with argument number: 1000 time is: 23.361829553s
